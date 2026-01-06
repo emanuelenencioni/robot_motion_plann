@@ -1,6 +1,6 @@
 README
 
-# Robot-guide
+# Robot-motion-planning
 robot guide through a 2d map with convx polygon obstacles using searching algorithms. Each vertex of the polygons represents a point at which the robot can move.
 
 # Libraries installation
